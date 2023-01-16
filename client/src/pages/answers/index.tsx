@@ -60,6 +60,7 @@ const Answers = () => {
   const handleRoute = () => {
     router.push("/askquestion");
   };
+
   const handleUpVote = (id: any) => {
     setlike(!like);
     let temp = [...upvote];
@@ -71,6 +72,7 @@ const Answers = () => {
     }
     setUpVote(temp);
   };
+
   const handleDownVote = (id: any) => {
     setUnlike(!unLike);
     let temp = [...downVote];
@@ -82,6 +84,7 @@ const Answers = () => {
     }
     setDownVote(temp);
   };
+
   const handleAnswerValue = (value: string) => {
     setAnswerValue(value);
   };
@@ -131,6 +134,7 @@ const Answers = () => {
       [id]: !open[id],
     }));
   };
+
   const handleOnPress = (item: never | any) => {
     let temp = [...isSelected];
 
@@ -143,6 +147,7 @@ const Answers = () => {
   };
 
   const reversedData = data?.answers?.reverse();
+
   return (
     <Grid>
       {like && (
