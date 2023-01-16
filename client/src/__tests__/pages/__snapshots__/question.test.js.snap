@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Comment /> Should render correctly 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-1k1ys70-MuiGrid-root{box-sizing:border-box;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;width:100%;}",
+      }
+    }
+    data-emotion="css 1k1ys70-MuiGrid-root"
+  />,
+  <div
+    className="MuiGrid-root css-1k1ys70-MuiGrid-root"
+  >
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1aw274c-MuiGrid-root{box-sizing:border-box;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding-bottom:48px;}",
+        }
+      }
+      data-emotion="css 1aw274c-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root css-1aw274c-MuiGrid-root"
+    >
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1mgl5zq-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:2.125rem;line-height:1.235;letter-spacing:0.00735em;width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;padding-bottom:48px;}",
+          }
+        }
+        data-emotion="css 1mgl5zq-MuiTypography-root"
+      />
+      <h4
+        className="MuiTypography-root MuiTypography-h4 css-1mgl5zq-MuiTypography-root"
+      >
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-tmj7n0-MuiLink-root{-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-tmj7n0-MuiLink-root:hover{text-decoration-color:inherit;}",
+            }
+          }
+          data-emotion="css tmj7n0-MuiLink-root"
+        />
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-m0a6ts-MuiTypography-root-MuiLink-root{margin:0;color:#1976d2;-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-m0a6ts-MuiTypography-root-MuiLink-root:hover{text-decoration-color:inherit;}",
+            }
+          }
+          data-emotion="css m0a6ts-MuiTypography-root-MuiLink-root"
+        />
+        <a
+          className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-m0a6ts-MuiTypography-root-MuiLink-root"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          Questions
+        </a>
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-1yn1ypt-MuiButton-root{font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-1yn1ypt-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-1yn1ypt-MuiButton-root:hover{background-color:#1976d2;}}.css-1yn1ypt-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-1yn1ypt-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-1yn1ypt-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+            }
+          }
+          data-emotion="css 1yn1ypt-MuiButton-root"
+        />
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-31et6v-MuiButtonBase-root-MuiButton-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;position:relative;box-sizing:border-box;-webkit-tap-highlight-color:transparent;background-color:transparent;outline:0;border:0;margin:0;border-radius:0;padding:0;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-moz-appearance:none;-webkit-appearance:none;-webkit-text-decoration:none;text-decoration:none;color:inherit;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-31et6v-MuiButtonBase-root-MuiButton-root::-moz-focus-inner{border-style:none;}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-disabled{pointer-events:none;cursor:default;}@media print{.css-31et6v-MuiButtonBase-root-MuiButton-root{-webkit-print-color-adjust:exact;color-adjust:exact;}}.css-31et6v-MuiButtonBase-root-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-31et6v-MuiButtonBase-root-MuiButton-root:hover{background-color:#1976d2;}}.css-31et6v-MuiButtonBase-root-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+            }
+          }
+          data-emotion="css 31et6v-MuiButtonBase-root-MuiButton-root"
+        />
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-31et6v-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Ask Question
+        </button>
+      </h4>
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1e87dvm-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;border-bottom:1px solid lightgrey;padding-top:40px;padding-bottom:40px;font-weight:900;}",
+          }
+        }
+        data-emotion="css 1e87dvm-MuiTypography-root"
+      />
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1e87dvm-MuiTypography-root"
+      >
+        Total questions : 
+      </p>
+      <div />
+      <div
+        className="pagination"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`<Question /> Should render correctly 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-1k1ys70-MuiGrid-root{box-sizing:border-box;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;width:100%;}",
+      }
+    }
+    data-emotion="css 1k1ys70-MuiGrid-root"
+  />,
+  <div
+    className="MuiGrid-root css-1k1ys70-MuiGrid-root"
+  >
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1aw274c-MuiGrid-root{box-sizing:border-box;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding-bottom:48px;}",
+        }
+      }
+      data-emotion="css 1aw274c-MuiGrid-root"
+    />
+    <div
+      className="MuiGrid-root css-1aw274c-MuiGrid-root"
+    >
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1mgl5zq-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:2.125rem;line-height:1.235;letter-spacing:0.00735em;width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;padding-bottom:48px;}",
+          }
+        }
+        data-emotion="css 1mgl5zq-MuiTypography-root"
+      />
+      <h4
+        className="MuiTypography-root MuiTypography-h4 css-1mgl5zq-MuiTypography-root"
+      >
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-tmj7n0-MuiLink-root{-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-tmj7n0-MuiLink-root:hover{text-decoration-color:inherit;}",
+            }
+          }
+          data-emotion="css tmj7n0-MuiLink-root"
+        />
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-m0a6ts-MuiTypography-root-MuiLink-root{margin:0;color:#1976d2;-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-m0a6ts-MuiTypography-root-MuiLink-root:hover{text-decoration-color:inherit;}",
+            }
+          }
+          data-emotion="css m0a6ts-MuiTypography-root-MuiLink-root"
+        />
+        <a
+          className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-m0a6ts-MuiTypography-root-MuiLink-root"
+          onBlur={[Function]}
+          onFocus={[Function]}
+        >
+          Questions
+        </a>
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-1yn1ypt-MuiButton-root{font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-1yn1ypt-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-1yn1ypt-MuiButton-root:hover{background-color:#1976d2;}}.css-1yn1ypt-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-1yn1ypt-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-1yn1ypt-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+            }
+          }
+          data-emotion="css 1yn1ypt-MuiButton-root"
+        />
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-31et6v-MuiButtonBase-root-MuiButton-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;position:relative;box-sizing:border-box;-webkit-tap-highlight-color:transparent;background-color:transparent;outline:0;border:0;margin:0;border-radius:0;padding:0;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-moz-appearance:none;-webkit-appearance:none;-webkit-text-decoration:none;text-decoration:none;color:inherit;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:10%;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;}.css-31et6v-MuiButtonBase-root-MuiButton-root::-moz-focus-inner{border-style:none;}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-disabled{pointer-events:none;cursor:default;}@media print{.css-31et6v-MuiButtonBase-root-MuiButton-root{-webkit-print-color-adjust:exact;color-adjust:exact;}}.css-31et6v-MuiButtonBase-root-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-31et6v-MuiButtonBase-root-MuiButton-root:hover{background-color:#1976d2;}}.css-31et6v-MuiButtonBase-root-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-31et6v-MuiButtonBase-root-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+            }
+          }
+          data-emotion="css 31et6v-MuiButtonBase-root-MuiButton-root"
+        />
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-31et6v-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Ask Question
+        </button>
+      </h4>
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1e87dvm-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;border-bottom:1px solid lightgrey;padding-top:40px;padding-bottom:40px;font-weight:900;}",
+          }
+        }
+        data-emotion="css 1e87dvm-MuiTypography-root"
+      />
+      <p
+        className="MuiTypography-root MuiTypography-body1 css-1e87dvm-MuiTypography-root"
+      >
+        Total questions : 
+      </p>
+      <div />
+      <div
+        className="pagination"
+      />
+    </div>
+  </div>,
+]
+`;

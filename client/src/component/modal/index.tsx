@@ -20,7 +20,7 @@ interface ModalProps {
   title?: string;
   subtitle?: string;
   open: boolean;
-  handleClose: () => void;
+  handleClose?: () => void;
 }
 
 const BasicModal = ({ open, handleClose, title, subtitle }: ModalProps) => {
