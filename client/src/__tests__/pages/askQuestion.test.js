@@ -1,13 +1,13 @@
 import renderer from "react-test-renderer";
 import { QueryClient, QueryClientProvider } from "react-query";
-import Answers from "src/pages/answers";
+import AskQuestion from "src/pages/askquestion";
 
 const queryClient = new QueryClient();
 describe("Test Answers Component", () => {
   it("Should render correctly", () => {
     const component = renderer.create(
       <QueryClientProvider client={queryClient}>
-        <Answers />
+        <AskQuestion />
       </QueryClientProvider>
     );
     const tree = component.toJSON();

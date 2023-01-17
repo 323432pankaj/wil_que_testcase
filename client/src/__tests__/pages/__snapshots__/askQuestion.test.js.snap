@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Answers Component Should render correctly 1`] = `
+[
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-dz210t{padding-bottom:6px;width:80%;min-width:700px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:5px;}",
+      }
+    }
+    data-emotion="css dz210t"
+  />,
+  <style
+    dangerouslySetInnerHTML={
+      {
+        "__html": ".css-dd3jhj-MuiGrid-root{box-sizing:border-box;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding-bottom:6px;width:80%;min-width:700px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:5px;}",
+      }
+    }
+    data-emotion="css dd3jhj-MuiGrid-root"
+  />,
+  <div
+    className="MuiGrid-root css-dd3jhj-MuiGrid-root"
+  >
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1e2o4c5{width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;padding-bottom:6px;}",
+        }
+      }
+      data-emotion="css 1e2o4c5"
+    />
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-16809uz-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:2.125rem;line-height:1.235;letter-spacing:0.00735em;width:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;padding-bottom:6px;}",
+        }
+      }
+      data-emotion="css 16809uz-MuiTypography-root"
+    />
+    <h4
+      className="MuiTypography-root MuiTypography-h4 css-16809uz-MuiTypography-root"
+    >
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-12u91cq-MuiLink-root{-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);}.css-12u91cq-MuiLink-root:hover{text-decoration-color:inherit;}",
+          }
+        }
+        data-emotion="css 12u91cq-MuiLink-root"
+      />
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1ps4owl-MuiTypography-root-MuiLink-root{margin:0;color:#1976d2;-webkit-text-decoration:underline;text-decoration:underline;text-decoration-color:rgba(25, 118, 210, 0.4);}.css-1ps4owl-MuiTypography-root-MuiLink-root:hover{text-decoration-color:inherit;}",
+          }
+        }
+        data-emotion="css 1ps4owl-MuiTypography-root-MuiLink-root"
+      />
+      <a
+        className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-1ps4owl-MuiTypography-root-MuiLink-root"
+        onBlur={[Function]}
+        onFocus={[Function]}
+      >
+        Ask question
+      </a>
+    </h4>
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-ahj2mt-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;}",
+        }
+      }
+      data-emotion="css ahj2mt-MuiTypography-root"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      You’re ready to ask a programming-related question and this form will help guide you through the process. Looking to ask a non-programming question? See the topics here to find a relevant site.
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    >
+      Steps: 
+      <li>
+        Summarize your problem in a one-line title.
+      </li>
+      <li>
+        Describe your problem in more detail.
+      </li>
+      <li>
+        Add “tags” which help surface your question to members of the community. Review your question and post it to the site.
+      </li>
+    </p>
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1nkvgd6-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;padding:24px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:24px;border:1px solid grey;}",
+        }
+      }
+      data-emotion="css 1nkvgd6-MuiTypography-root"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-1nkvgd6-MuiTypography-root"
+    >
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-2ulfj5-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:1.25rem;line-height:1.6;letter-spacing:0.0075em;}",
+          }
+        }
+        data-emotion="css 2ulfj5-MuiTypography-root"
+      />
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+      >
+        Title
+      </h6>
+      You're asking a question to unkown talented peoples.
+      <input
+        onChange={[Function]}
+        style={
+          {
+            "border": "none",
+            "borderRadius": "8px",
+            "height": "2rem",
+            "padding": 6,
+          }
+        }
+        type="text"
+      />
+    </p>
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-4sdq44{padding:10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:3px;border:1px solid grey;}",
+        }
+      }
+      data-emotion="css 4sdq44"
+    />
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1hnb33t-MuiTypography-root{margin:0;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:400;font-size:1rem;line-height:1.5;letter-spacing:0.00938em;padding:10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;gap:3px;border:1px solid grey;}",
+        }
+      }
+      data-emotion="css 1hnb33t-MuiTypography-root"
+    />
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-1hnb33t-MuiTypography-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+      >
+        What are the details of your problem?
+      </h6>
+      <div>
+        <div
+          style={
+            {
+              "height": "200px",
+            }
+          }
+        >
+          <p>
+            Loading ...
+          </p>
+        </div>
+      </div>
+      <strong>
+        Please enter more than 10 characters
+      </strong>
+    </p>
+    <p
+      className="MuiTypography-root MuiTypography-body1 css-1hnb33t-MuiTypography-root"
+    >
+      <h6
+        className="MuiTypography-root MuiTypography-h6 css-2ulfj5-MuiTypography-root"
+      >
+        Tags
+      </h6>
+      Add some tags to describe what your question is about.
+      <style
+        dangerouslySetInnerHTML={
+          {
+            "__html": ".css-1l05b64{padding:6px;height:2rem;border-radius:8px;border:none;}",
+          }
+        }
+        data-emotion="css 1l05b64"
+      />
+      <input
+        className="css-1l05b64"
+        onChange={[Function]}
+        type="text"
+      />
+    </p>
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1srsqcm{width:90px;}",
+        }
+      }
+      data-emotion="css 1srsqcm"
+    />
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-ueg1xk-MuiButton-root{font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:90px;}.css-ueg1xk-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-ueg1xk-MuiButton-root:hover{background-color:#1976d2;}}.css-ueg1xk-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-ueg1xk-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-ueg1xk-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+        }
+      }
+      data-emotion="css ueg1xk-MuiButton-root"
+    />
+    <style
+      dangerouslySetInnerHTML={
+        {
+          "__html": ".css-1pbf15y-MuiButtonBase-root-MuiButton-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;position:relative;box-sizing:border-box;-webkit-tap-highlight-color:transparent;background-color:transparent;outline:0;border:0;margin:0;border-radius:0;padding:0;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-moz-appearance:none;-webkit-appearance:none;-webkit-text-decoration:none;text-decoration:none;color:inherit;font-family:"Roboto","Helvetica","Arial",sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;letter-spacing:0.02857em;text-transform:uppercase;min-width:64px;padding:6px 16px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#fff;background-color:#1976d2;box-shadow:0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);width:90px;}.css-1pbf15y-MuiButtonBase-root-MuiButton-root::-moz-focus-inner{border-style:none;}.css-1pbf15y-MuiButtonBase-root-MuiButton-root.Mui-disabled{pointer-events:none;cursor:default;}@media print{.css-1pbf15y-MuiButtonBase-root-MuiButton-root{-webkit-print-color-adjust:exact;color-adjust:exact;}}.css-1pbf15y-MuiButtonBase-root-MuiButton-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:#1565c0;box-shadow:0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);}@media (hover: none){.css-1pbf15y-MuiButtonBase-root-MuiButton-root:hover{background-color:#1976d2;}}.css-1pbf15y-MuiButtonBase-root-MuiButton-root:active{box-shadow:0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);}.css-1pbf15y-MuiButtonBase-root-MuiButton-root.Mui-focusVisible{box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.css-1pbf15y-MuiButtonBase-root-MuiButton-root.Mui-disabled{color:rgba(0, 0, 0, 0.26);box-shadow:none;background-color:rgba(0, 0, 0, 0.12);}",
+        }
+      }
+      data-emotion="css 1pbf15y-MuiButtonBase-root-MuiButton-root"
+    />
+    <button
+      className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1pbf15y-MuiButtonBase-root-MuiButton-root"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="submit"
+    >
+      Post
+    </button>
+  </div>,
+]
+`;
