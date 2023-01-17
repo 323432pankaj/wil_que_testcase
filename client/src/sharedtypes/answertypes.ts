@@ -22,3 +22,8 @@ type author = {
   created: string;
   id: string;
 };
+
+export interface queryTypes {
+  questionId: string | undefined;
+  myquestion: string | undefined;
+}
